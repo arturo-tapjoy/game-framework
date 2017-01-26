@@ -7,6 +7,7 @@ canvas.style.height = canvas.height + "px";
 var ctx             = canvas.getContext("2d");
 
 
+
 // Simple draw method for 30(ish) fps
 setInterval(function() {
 
